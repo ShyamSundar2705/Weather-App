@@ -21,7 +21,7 @@ A simple weather app that shows the current weather based on city input using th
 
 \## 📸 Screenshot
 
-!\[To-Do List Screenshot](/Homepage.png)
+!\[Weather App Screenshot](images/Homepage.png)
 
-!\[To-Do List Screenshot](/Got\_Weather\_report.png)
+!\[Weather App Screenshot](images/Got\_Weather\_report.png)
 
