@@ -19,7 +19,7 @@ A simple weather app that shows the current weather based on city input using th
 
 
 
-\## 📸 Screenshot
+📸 Screenshot
 
 !\[Weather App Screenshot](images/Homepage.png)
 
