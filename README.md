@@ -1,12 +1,20 @@
-# 🌦 Weather App
+### 🌦 Weather App
 
 A simple weather app that shows the current weather based on city input using the OpenWeatherMap API.
+
+
+
+
 
 ## 🔧 Tech Stack
 
 * HTML
 * CSS
 * JavaScript (Fetch API)
+
+
+
+
 
 ## 💡 Features
 
@@ -19,7 +27,9 @@ A simple weather app that shows the current weather based on city input using th
 
 
 
-📸 Screenshot
+
+
+\##📸 Screenshot
 
 
 
